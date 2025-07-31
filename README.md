@@ -13,3 +13,8 @@ Guide for all projects developed during the bachelor course of biomedical engine
 🔗 [📂 View Code](https://github.com/Esther000-git/tfg-rv_avatar_design_for_emg_biofeedback/tree/main/Scripts)  
 🔗 [📄 See Report](https://github.com/Esther000-git/tfg-rv_avatar_design_for_emg_biofeedback/blob/main/memoria.pdf) 
 🔗 [🎥 Defense Presentation](https://www.canva.com/design/DAGs942APQg/jBIzGY0BiNMfOCBnd0tItw/watch?utm_content=DAGs942APQg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h15eaddfdf9)
+
+## 💉 Clinical systems infraestructure
+- [Glucometer](https://github.com/Esther000-git/glucometer)
+- [Patient's register]
+- [Ampliation to phone version with gradle]
