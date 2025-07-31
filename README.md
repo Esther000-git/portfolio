@@ -16,5 +16,5 @@ Guide for all projects developed during the bachelor course of biomedical engine
 
 ## 💉 Clinical systems infraestructure
 - [Glucometer](https://github.com/Esther000-git/glucometer)
-- [Patient's register]
+- [Patient's register](https://github.com/Esther000-git/patients_register)
 - [Ampliation to phone version with gradle]
